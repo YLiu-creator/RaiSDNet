@@ -1,4 +1,4 @@
-# An Integrated 2D&3D Isomorphic Imaging and Cross-Modal Network for Rail Surface Defect Detection and Measurement![image](https://github.com/user-attachments/assets/cc3f0ed8-6bb2-4ba3-be56-befeee479ee0)
+# An Integrated 2D&3D Isomorphic Imaging and Cross-Modal Network for Rail Surface Defect Detection and Measurement
 
 
 ## Abstract
